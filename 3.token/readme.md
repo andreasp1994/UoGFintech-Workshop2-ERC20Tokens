@@ -17,7 +17,7 @@ Click on the ERC20Basic.sol file and modify the parameters to match your token.
 totalSupply : How much tokens to start with.
 symbol : The abbreviation for the token (ie. ETH for Ethers)
 name : The name of the token
-decimals: Number of decimals for a whole token. ( Recommended: keep this to 18)
+decimals: Number of decimals for a whole token. ( Recommended: set this to 1 - Higher values make metamask not able to display balance)
 ```
 
 Step 4:
